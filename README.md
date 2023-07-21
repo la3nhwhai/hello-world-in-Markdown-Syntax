@@ -13,3 +13,36 @@ For example:
 #### Heading level 4	
 ##### Heading level 5	
 ###### Heading level 6	
+>2-Paragraph:
+<p>hello-world</p>
+
+>3-Bold:
+hello-**world**
+hello-__world__
+**hello**-world
+
+>4-Italic:
+*hello*-world
+_hello_-world
+
+>5-Bold and Italic:
+***hello***-world
+___hello___-world
+__*hello*__-world
+**_hello_**-world
+
+>6-Blockquote:
+>hello-world
+>6.1-Blockquote nhieu doan:
+>hello>>world
+
+>6.2-Blockquote long nhau:
+>>hello>>>world
+
+>6.3-Blockquote gom nhieu yeu to:
+>#### hello-world
+
+> - Xin chao **hello-world** la cau chao hoi mo dau cua *Nguoi Viet nam* truoc moi ***hoi thoai***.
+> - Tam biet **good-bye** la loi tam biet sau khi *ket thuc hoi thoai*
+>
+> Chuc cac ban co nhung giay phut vui ve tren **Github.com**
